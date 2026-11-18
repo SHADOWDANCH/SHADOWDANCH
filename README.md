@@ -6,6 +6,8 @@ Developer from Ukraine 🇺🇦, now based in Winnipeg 🇨🇦. A lot of my exp
 ![Stars](https://img.shields.io/github/stars/SHADOWDANCH?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/github/followers/SHADOWDANCH?style=flat-square&logo=github)
 
+🎓 MSc in Computer Science (2026), National Aerospace University "Kharkiv Aviation Institute"
+
 ## 📌 Projects
 
 | Project | Description | Stack |
