@@ -1,6 +1,6 @@
-# Danylo Cherevashko 🙄
+# Danylo Cherevashko ⛏️
 
-Developer from Ukraine 🇺🇦, now based in Winnipeg 🇨🇦. A lot of my experience is in DeFi and crypto, mostly closed-source work for a company, so it's on [LinkedIn](https://www.linkedin.com/in/danylo-cherevashko/) rather than here. Outside of that I work on reverse engineering, DJ hardware and stage lighting.
+Developer from Ukraine 🇺🇦, now based in Winnipeg 🇨🇦. A lot of my experience is in DeFi and crypto, mostly closed-source work for a company, so it's on [LinkedIn](https://www.linkedin.com/in/danylo-cherevashko/) rather than here. I also have years of experience with Minecraft modding and server development. These days I spend my free time on reverse engineering, DJ hardware and stage lighting.
 
 ![Location](https://img.shields.io/badge/Winnipeg-Canada-D52B1E?style=flat-square&logo=googlemaps&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/SHADOWDANCH?style=flat-square&logo=github)
